@@ -1,0 +1,27 @@
+{
+  "name": "spoticry",
+  "version": "1.0.0",
+  "description": "uma interface que utiliza a API Spoticry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VanessaBicarioMassi/Spoticry.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VanessaBicarioMassi/Spoticry/issues"
+  },
+  "homepage": "https://github.com/VanessaBicarioMassi/Spoticry#readme",
+  "dependencies": {
+    "axios": "^1.7.8",
+    "jwt-decode": "^4.0.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^7.0.1",
+    "styled-components": "^6.1.13"
+  }
+}
